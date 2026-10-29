@@ -1,0 +1,8 @@
+﻿zstandard
+orjson
+pandas
+numpy
+scipy
+matplotlib
+ipykernel
+jinja2
